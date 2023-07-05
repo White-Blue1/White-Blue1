@@ -13,4 +13,5 @@
 
 # Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=White-Blue1&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=pie)<br>
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=White-Blue1&theme=dark&layout=compact)
