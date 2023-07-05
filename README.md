@@ -1,5 +1,5 @@
 ### Seja bem-vindo ao meu perfil do Github!
 
-[![Tecnologias e Linguagens de Programação que tenho experiência](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,c,cpp,bootstrap,express,flask,java,js,ts,jquery,kotlin,laravel,nextjs,nodejs,nuxtjs,raspberrypi,ruby,sass,rust,tailwind,vscode&perline=3)](https://skillicons.dev)
+[![Tecnologias e Linguagens de Programação que tenho experiência](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,c,cpp,bootstrap,express,flask,java,js,ts,jquery,kotlin,laravel,nextjs,nodejs,nuxtjs,raspberrypi,ruby,sass,rust,tailwind,vscode)](https://skillicons.dev)
 
 # Idiomas que falo
