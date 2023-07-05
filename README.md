@@ -17,8 +17,8 @@
 # Estatísticas
 <details open>
 <summary>Estatísticas (Esconder/Mostrar)</summary>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=White-Blue1&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=pie)<br>
+<img src="https://github-readme-stats.vercel.app/api?username=White-Blue1&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=pie"><br>
 </details>
 
 # Contato
