@@ -17,8 +17,9 @@
 # Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=White-Blue1&show_icons=true&theme=dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=pie)<br>
-<div>
+
 # Contato
+<div>
 <ul>
   <li><img src="./assets/assets/discord.png" width="19"> <span>White_Blue#6920</span></li>
 </ul>
