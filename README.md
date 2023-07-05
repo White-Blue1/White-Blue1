@@ -23,7 +23,7 @@
   <li><img src="./assets/assets/discord.png" width="19"> <span>White_Blue#6920</span></li>
 </ul>
 <details>
-<summary>Detalhe</summary>
+<summary style="user-select:none;">Informação</summary>
 <p>Posso demorar um pouco para responder no Discord. Se eu acabar não te respondendo, é por que eu mal uso o Discord.</p>
 </details>
 </div>
