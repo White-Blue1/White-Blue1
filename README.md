@@ -17,8 +17,13 @@
 # Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=White-Blue1&show_icons=true&theme=dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=pie)<br>
-
+<div>
 # Contato
 <ul>
   <li><img src="./assets/assets/discord.png" width="19"> <span>White_Blue#6920</span></li>
 </ul>
+<details>
+<summary>Detalhe</summary>
+<p>Posso demorar um pouco para responder no Discord. Se eu acabar não te respondendo, é por que eu mal uso o Discord.</p>
+</details>
+</div>
