@@ -17,5 +17,5 @@
 
 # Contato
 <ul>
-  <li><img src="./assets/assets/discord.png"></li>
+  <li><img src="./assets/assets/discord.png" width="15"></li>
 </ul>
