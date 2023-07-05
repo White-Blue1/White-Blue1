@@ -5,8 +5,8 @@
 # Idiomas que falo
 <div style="display:inline-flex;">
 <ul>
-<li> <img src="./assets/br-flag.webp" width="15" height="20"></li>
-<li> <img src="./assets/usa-flag.webp" width="15" height="20"></li>
-<li> <img src="./assets/es-flag.webp" width="15" height="20"></li>
+<li> <img src="./assets/br-flag.webp" width="25"></li>
+<li> <img src="./assets/usa-flag.webp" width="25"></li>
+<li> <img src="./assets/es-flag.webp" width="25"></li>
 </ul>
 </div>
