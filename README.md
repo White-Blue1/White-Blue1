@@ -3,7 +3,7 @@
 </p>
 
 ## Tecnologias e Linguagens de Programação que tenho experiência
-[![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,c,cpp,bootstrap,express,flask,java,js,ts,jquery,kotlin,laravel,nextjs,nodejs,nuxtjs,raspberrypi,ruby,sass,rust,tailwind,vscode,lua,cs,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,c,cpp,bootstrap,express,flask,java,js,ts,jquery,kotlin,laravel,nextjs,nodejs,nuxtjs,raspberrypi,ruby,sass,rust,tailwind,vscode,lua,cs,html,css,svelte,angular,arduino,go,babel,bash,dart,django,docker,dotnet,eclipse)](https://skillicons.dev)
 
 # Idiomas que falo
 <div style="display:inline-flex;">
