@@ -15,11 +15,13 @@
 </div>
 
 # Estatísticas
+<div>
 <details open>
-<summary>Estatísticas (Esconder/Mostrar)</summary>
+<summary>Estatísticas (Esconder/Mostrar)</summary><br>
 <img src="https://github-readme-stats.vercel.app/api?username=White-Blue1&show_icons=true&theme=dark"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=pie"><br>
 </details>
+</div>
 
 # Contato
 <div>
