@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao meu perfil do Github!
 
-# Tecnologias e Linguagens de Programação que tenho experiência
+## Tecnologias e Linguagens de Programação que tenho experiência
 [![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,c,cpp,bootstrap,express,flask,java,js,ts,jquery,kotlin,laravel,nextjs,nodejs,nuxtjs,raspberrypi,ruby,sass,rust,tailwind,vscode,lua)](https://skillicons.dev)
 
 # Idiomas que falo
@@ -18,5 +18,5 @@
 
 # Contato
 <ul>
-  <li><img src="./assets/assets/discord.png" width="25"><span>White_Blue#6920</span></li>
+  <li><img src="./assets/assets/discord.png" width="19"> <span>White_Blue#6920</span></li>
 </ul>
