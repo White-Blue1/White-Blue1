@@ -1,4 +1,6 @@
 ### Seja bem-vindo ao meu perfil do Github!
+<p>Meu nome é Luiz mas sou conhecido como White_Blue nas comunidades de programação. Sou formado em Ciência da Computação pela UFJF moro em São João Del Rei - Minas Gerais e tenho extensa experiência na computação &amp; programação. Aqui postarei contribuições e projetos pessoais que faço em meu tempo livre;
+</p>
 
 ## Tecnologias e Linguagens de Programação que tenho experiência
 [![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,c,cpp,bootstrap,express,flask,java,js,ts,jquery,kotlin,laravel,nextjs,nodejs,nuxtjs,raspberrypi,ruby,sass,rust,tailwind,vscode,lua)](https://skillicons.dev)
