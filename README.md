@@ -13,4 +13,4 @@
 
 # Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=White-Blue1&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=White-Blue1&theme=dark&layout=pie)
